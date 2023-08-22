@@ -31,7 +31,9 @@ section {
 }
 
 #hero {
-    background-image: url(./img/twpp-slider-bg.jpg);
+    background-image: url(./img/frpp-slider-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     color: white;
 }
 
@@ -79,12 +81,12 @@ section {
 }
 
 #about h1{
-    color: #f47b2b;
+    color: #d13139;
     font-weight: 400;
 }
 
 #contact {
-    background-color: #f47b2b;
+    background-color: #d13139;
     color: white;
 }
 
