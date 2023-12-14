@@ -45,8 +45,8 @@ section {
     color: #1b75bb;
 }
 
-.orange-h1{
-    color: #f47b2b;
+.red-h1{
+    color: #d13139;
 }
 
 .thinner{
@@ -80,11 +80,6 @@ section {
     font-weight: 400;
 }
 
-#about h1{
-    color: #d13139;
-    font-weight: 400;
-}
-
 #contact {
     background-color: #d13139;
     color: white;
@@ -96,4 +91,9 @@ section {
 
 #contact p{
     margin-bottom: 4px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: white;
 }
